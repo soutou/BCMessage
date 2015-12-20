@@ -1,0 +1,8 @@
+name: BCTimeMessage
+main: top.bctime.Main
+version: 0.1
+author: soutou
+commands:
+  bcxx:
+      description: 北城时光 消息推送 辅助插件
+      usage: /bcxx

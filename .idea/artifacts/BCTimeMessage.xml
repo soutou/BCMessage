@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BCTimeMessage">
+    <output-path>$PROJECT_DIR$/out/artifacts/BCTimeMessage</output-path>
+    <root id="archive" name="BCTimeMessage.jar">
+      <element id="module-output" name="BCMessage" />
+    </root>
+  </artifact>
+</component>

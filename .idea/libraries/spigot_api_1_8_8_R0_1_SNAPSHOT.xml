@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spigot-api-1.8.8-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/临时用插件、汉化文本/spigot-api-1.8.8-R0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://hub.spigotmc.org/javadocs/spigot/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
