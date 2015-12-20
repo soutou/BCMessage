@@ -32,7 +32,7 @@ public class Main extends JavaPlugin {
                 return true;
             }
                 if (!sender.isOp() && sender.hasPermission("bcxx.admin")) {
-                    sender.sendMessage("§c权限不足");
+                    sender.sendMessage("§c权限不足!");
                     return false;
                 }
                 if (args.length == 1) {
